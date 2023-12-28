@@ -35,7 +35,7 @@ body {
   font-weight: bold;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 371px) {
   .contenedor-principal {
     max-width: 230px;
   }
