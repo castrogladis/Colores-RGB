@@ -35,9 +35,9 @@ body {
   font-weight: bold;
 }
 
-@media (max-width: 371px) {
+@media (max-width: 412px) {
   .contenedor-principal {
-    max-width: 230px;
+    max-width: 296px;
   }
 }
 
